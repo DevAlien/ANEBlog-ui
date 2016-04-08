@@ -1,0 +1,7 @@
+{
+  "port": 4000,
+  "host": "0.0.0.0",
+  "apiUrl": "http://localhost:8102",
+  "facebookToken": "492590300924218",
+  "config": {}
+}
